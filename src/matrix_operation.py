@@ -1,3 +1,5 @@
+# refer http://ljs93kr.tistory.com/33
+
 import numpy as np
 import tensorflow as tf
 
